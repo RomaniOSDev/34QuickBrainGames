@@ -186,3 +186,4 @@ struct ResultStatView: View {
         .environmentObject(ChallengeViewModel(gameViewModel: GameViewModel()))
 }
 
+

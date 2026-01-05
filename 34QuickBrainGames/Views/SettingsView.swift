@@ -341,3 +341,4 @@ struct TermsOfServiceView: View {
     SettingsView()
 }
 
+

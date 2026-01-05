@@ -175,3 +175,4 @@ struct AchievementCardView: View {
         .environmentObject(ProgressViewModel.shared)
 }
 
+

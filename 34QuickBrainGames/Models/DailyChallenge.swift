@@ -22,3 +22,4 @@ struct DailyChallenge: Identifiable, Codable {
     }
 }
 
+

@@ -58,3 +58,4 @@ enum CognitiveSkill: String, CaseIterable, Codable {
     case patternRecognition = "Pattern Recognition"
 }
 
+
